@@ -1,0 +1,3 @@
+rootProject.name = "kripto88"
+include ':app'
+include ':instant'
