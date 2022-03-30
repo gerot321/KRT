@@ -35,7 +35,7 @@
         android:layout_marginRight="20dp"
         android:orientation="vertical"
         android:layout_height="wrap_content">
-        <com.krt.app.BabeTextView
+        <com.slt.app.BabeTextView
             android:textSize="12sp"
             android:maxLines="1"
             android:ellipsize="end"

@@ -4,14 +4,14 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.krt.app",
+  "applicationId": "com.slt.app",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
-      "versionCode": 2105241,
-      "versionName": "1.0.2105241",
+      "versionCode": 2203271,
+      "versionName": "1.0.2203271",
       "outputFile": "app-release.apk"
     }
   ]
